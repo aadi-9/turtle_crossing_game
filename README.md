@@ -27,7 +27,6 @@ A simple Python game where you control a turtle trying to cross a busy road fill
    ```bash
    python main.py
    ```
-   *(Replace `main.py` with the actual name of the main game file if different.)*
 
 ## Requirements
 
